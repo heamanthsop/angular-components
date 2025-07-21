@@ -1,0 +1,11 @@
+<div *ngIf="markDownPreviewValue; else noValue"
+     class="markdown-preview-container">
+  <div [class]="'markdown-preview ' + customMarkdownClass"
+       [innerHTML]="markDownPreviewValue"></div>
+</div>
+
+<ng-template #noValue>
+  <div class="no-value">
+    <nz-skeleton [nzActive]="true"></nz-skeleton>
+  </div>
+</ng-template>
