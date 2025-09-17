@@ -54,7 +54,7 @@
     "vidstack": "^1.12.12",
     "zone.js": "~0.15.0",
     "bootstrap": "^5.3.6",
-    "codemirror": "5.55.0"
+    "codemirror": "5.65.20"
   },
   "devDependencies": {
     "@angular-devkit/build-angular": "^19.0.6",
