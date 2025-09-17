@@ -44,7 +44,7 @@
     "ngx-lottie": "^13.0.0",
     "ngx-mask": "^19.0.6",
     "ngx-quill": "^27.0.0",
-    "ngx-stripe": "19.0.0",
+    "ngx-stripe": "19.7.0",
     "papaparse": "^5.5.2",
     "quill": "^2.0.3",
     "quill-mention": "^6.0.2",
